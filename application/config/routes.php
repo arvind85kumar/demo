@@ -63,6 +63,7 @@ $route['business_thank_you'] = 'business/business_thank_you';
 $route['login'] = 'user/login';
 $route['myaccount'] = 'user/myaccount';
 $route['plans'] = 'user/plans_price';
+$route['change-password'] = 'user/change_password';
 $route['recover_password'] = 'user/recover_password';
 $route['professioanl_profile'] = 'Professional/professioanl_profile';
 $route['professioanl_awards'] = 'Professional/professioanl_awards';

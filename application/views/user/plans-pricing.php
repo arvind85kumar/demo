@@ -17,12 +17,21 @@ $userdata=$this->session->userdata('logged_user');
                       <?php $this->load->view('includes/account-menu');?>
 
 <br><br></div>
-  <div class="col-md-8">
+  <div class="col-md-3">
 	  <div class="panel panel-info">
-           
+           s
               </div>
-            </div>
-                
+       </div>
+       <div class="col-md-3">
+			  <div class="panel panel-info">
+				   s
+				 </div>
+        </div>
+        <div class="col-md-3">
+	  <div class="panel panel-info">
+           s
+              </div>
+            </div>           
             
           </div></div>
                      
@@ -33,13 +42,4 @@ $userdata=$this->session->userdata('logged_user');
       </div>
       <!-- Login wrapper End-->
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-    <script type="text/javascript">
-    	$(document).ready(function(){
-            $(function () {
-              $('[data-toggle="popover"]').popover()
-            })
-        });
-   </script>
   

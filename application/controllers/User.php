@@ -207,11 +207,10 @@ class User extends CI_Controller {
 		public function change_password()
 		{
 				$data = array(
-               'title' => 'recover_password',
-               'heading' => 'My Heading',
-               'message' => 'My Message'
+               'title' => 'Change Password'
           );
-			$this->load->view('user/recover_password',$data);
+			$data['main_content'] = 'user/change-password';
+				$this->load->view('includes/front_template', $data); 
 		}
 		public function plans_price()
 		{
@@ -222,6 +221,8 @@ class User extends CI_Controller {
 			$data['main_content'] = 'user/plans-pricing';
 				$this->load->view('includes/front_template', $data);  	
 		}
+		
+		
 		
 		
 		public function myaccount()

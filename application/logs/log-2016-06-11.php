@@ -1712,3 +1712,760 @@ INFO - 2016-06-11 17:06:10 --> File loaded: /var/www/html/demo/application/views
 INFO - 2016-06-11 17:06:10 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
 INFO - 2016-06-11 17:06:10 --> Final output sent to browser
 DEBUG - 2016-06-11 17:06:10 --> Total execution time: 0.0075
+INFO - 2016-06-11 17:18:13 --> Config Class Initialized
+INFO - 2016-06-11 17:18:13 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:18:13 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:18:13 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:18:13 --> URI Class Initialized
+INFO - 2016-06-11 17:18:13 --> Router Class Initialized
+INFO - 2016-06-11 17:18:13 --> Output Class Initialized
+INFO - 2016-06-11 17:18:13 --> Security Class Initialized
+DEBUG - 2016-06-11 17:18:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:18:13 --> Input Class Initialized
+INFO - 2016-06-11 17:18:13 --> Language Class Initialized
+INFO - 2016-06-11 17:18:13 --> Loader Class Initialized
+INFO - 2016-06-11 17:18:13 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:18:13 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:18:13 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:18:13 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:18:13 --> Email Class Initialized
+INFO - 2016-06-11 17:18:13 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:18:13 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:18:13 --> Controller Class Initialized
+INFO - 2016-06-11 17:18:13 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:18:13 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:18:13 --> File loaded: /var/www/html/demo/application/views/user/plans-pricing.php
+INFO - 2016-06-11 17:18:13 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:18:13 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:18:13 --> Final output sent to browser
+DEBUG - 2016-06-11 17:18:13 --> Total execution time: 0.0058
+INFO - 2016-06-11 17:18:25 --> Config Class Initialized
+INFO - 2016-06-11 17:18:25 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:18:25 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:18:25 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:18:25 --> URI Class Initialized
+INFO - 2016-06-11 17:18:25 --> Router Class Initialized
+INFO - 2016-06-11 17:18:25 --> Output Class Initialized
+INFO - 2016-06-11 17:18:25 --> Security Class Initialized
+DEBUG - 2016-06-11 17:18:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:18:25 --> Input Class Initialized
+INFO - 2016-06-11 17:18:25 --> Language Class Initialized
+INFO - 2016-06-11 17:18:25 --> Loader Class Initialized
+INFO - 2016-06-11 17:18:25 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:18:25 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:18:25 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:18:25 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:18:25 --> Email Class Initialized
+INFO - 2016-06-11 17:18:25 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:18:25 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:18:25 --> Controller Class Initialized
+INFO - 2016-06-11 17:18:25 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:18:25 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:18:25 --> File loaded: /var/www/html/demo/application/views/user/plans-pricing.php
+INFO - 2016-06-11 17:18:25 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:18:25 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:18:25 --> Final output sent to browser
+DEBUG - 2016-06-11 17:18:25 --> Total execution time: 0.0038
+INFO - 2016-06-11 17:18:33 --> Config Class Initialized
+INFO - 2016-06-11 17:18:33 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:18:33 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:18:33 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:18:33 --> URI Class Initialized
+INFO - 2016-06-11 17:18:33 --> Router Class Initialized
+INFO - 2016-06-11 17:18:33 --> Output Class Initialized
+INFO - 2016-06-11 17:18:33 --> Security Class Initialized
+DEBUG - 2016-06-11 17:18:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:18:33 --> Input Class Initialized
+INFO - 2016-06-11 17:18:33 --> Language Class Initialized
+INFO - 2016-06-11 17:18:33 --> Loader Class Initialized
+INFO - 2016-06-11 17:18:33 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:18:33 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:18:33 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:18:33 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:18:33 --> Email Class Initialized
+INFO - 2016-06-11 17:18:33 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:18:33 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:18:33 --> Controller Class Initialized
+INFO - 2016-06-11 17:18:33 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:18:33 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:18:33 --> File loaded: /var/www/html/demo/application/views/user/plans-pricing.php
+INFO - 2016-06-11 17:18:33 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:18:33 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:18:33 --> Final output sent to browser
+DEBUG - 2016-06-11 17:18:33 --> Total execution time: 0.0057
+INFO - 2016-06-11 17:19:14 --> Config Class Initialized
+INFO - 2016-06-11 17:19:14 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:19:14 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:19:14 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:19:14 --> URI Class Initialized
+INFO - 2016-06-11 17:19:14 --> Router Class Initialized
+INFO - 2016-06-11 17:19:14 --> Output Class Initialized
+INFO - 2016-06-11 17:19:14 --> Security Class Initialized
+DEBUG - 2016-06-11 17:19:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:19:14 --> Input Class Initialized
+INFO - 2016-06-11 17:19:14 --> Language Class Initialized
+INFO - 2016-06-11 17:19:14 --> Loader Class Initialized
+INFO - 2016-06-11 17:19:14 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:19:14 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:19:14 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:19:14 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:19:14 --> Email Class Initialized
+INFO - 2016-06-11 17:19:14 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:19:14 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:19:14 --> Controller Class Initialized
+INFO - 2016-06-11 17:19:14 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:19:14 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:19:14 --> File loaded: /var/www/html/demo/application/views/user/plans-pricing.php
+INFO - 2016-06-11 17:19:14 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:19:14 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:19:14 --> Final output sent to browser
+DEBUG - 2016-06-11 17:19:14 --> Total execution time: 0.0056
+INFO - 2016-06-11 17:19:57 --> Config Class Initialized
+INFO - 2016-06-11 17:19:57 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:19:57 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:19:57 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:19:57 --> URI Class Initialized
+INFO - 2016-06-11 17:19:57 --> Router Class Initialized
+INFO - 2016-06-11 17:19:57 --> Output Class Initialized
+INFO - 2016-06-11 17:19:57 --> Security Class Initialized
+DEBUG - 2016-06-11 17:19:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:19:57 --> Input Class Initialized
+INFO - 2016-06-11 17:19:57 --> Language Class Initialized
+INFO - 2016-06-11 17:19:57 --> Loader Class Initialized
+INFO - 2016-06-11 17:19:57 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:19:57 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:19:57 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:19:57 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:19:57 --> Email Class Initialized
+INFO - 2016-06-11 17:19:57 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:19:57 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:19:57 --> Controller Class Initialized
+INFO - 2016-06-11 17:19:57 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:19:57 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:19:57 --> File loaded: /var/www/html/demo/application/views/user/plans-pricing.php
+INFO - 2016-06-11 17:19:57 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:19:57 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:19:57 --> Final output sent to browser
+DEBUG - 2016-06-11 17:19:57 --> Total execution time: 0.0034
+INFO - 2016-06-11 17:28:37 --> Config Class Initialized
+INFO - 2016-06-11 17:28:37 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:28:37 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:28:37 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:28:37 --> URI Class Initialized
+INFO - 2016-06-11 17:28:37 --> Router Class Initialized
+INFO - 2016-06-11 17:28:37 --> Output Class Initialized
+INFO - 2016-06-11 17:28:37 --> Security Class Initialized
+DEBUG - 2016-06-11 17:28:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:28:37 --> Input Class Initialized
+INFO - 2016-06-11 17:28:37 --> Language Class Initialized
+INFO - 2016-06-11 17:28:37 --> Loader Class Initialized
+INFO - 2016-06-11 17:28:37 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:28:37 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:28:37 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:28:37 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:28:37 --> Email Class Initialized
+INFO - 2016-06-11 17:28:37 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:28:37 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:28:37 --> Controller Class Initialized
+INFO - 2016-06-11 17:28:37 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:28:37 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:28:37 --> File loaded: /var/www/html/demo/application/views/user/plans-pricing.php
+INFO - 2016-06-11 17:28:37 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:28:37 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:28:37 --> Final output sent to browser
+DEBUG - 2016-06-11 17:28:37 --> Total execution time: 0.0049
+INFO - 2016-06-11 17:30:41 --> Config Class Initialized
+INFO - 2016-06-11 17:30:41 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:30:41 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:30:41 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:30:41 --> URI Class Initialized
+INFO - 2016-06-11 17:30:41 --> Router Class Initialized
+INFO - 2016-06-11 17:30:41 --> Output Class Initialized
+INFO - 2016-06-11 17:30:41 --> Security Class Initialized
+DEBUG - 2016-06-11 17:30:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:30:41 --> Input Class Initialized
+INFO - 2016-06-11 17:30:41 --> Language Class Initialized
+INFO - 2016-06-11 17:30:41 --> Loader Class Initialized
+INFO - 2016-06-11 17:30:41 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:30:41 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:30:41 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:30:41 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:30:41 --> Email Class Initialized
+INFO - 2016-06-11 17:30:41 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:30:41 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:30:41 --> Controller Class Initialized
+INFO - 2016-06-11 17:30:41 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:30:41 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:30:41 --> File loaded: /var/www/html/demo/application/views/user/plans-pricing.php
+INFO - 2016-06-11 17:30:41 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:30:41 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:30:41 --> Final output sent to browser
+DEBUG - 2016-06-11 17:30:41 --> Total execution time: 0.0052
+INFO - 2016-06-11 17:32:16 --> Config Class Initialized
+INFO - 2016-06-11 17:32:16 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:32:16 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:32:16 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:32:16 --> URI Class Initialized
+INFO - 2016-06-11 17:32:16 --> Router Class Initialized
+INFO - 2016-06-11 17:32:16 --> Output Class Initialized
+INFO - 2016-06-11 17:32:16 --> Security Class Initialized
+DEBUG - 2016-06-11 17:32:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:32:16 --> Input Class Initialized
+INFO - 2016-06-11 17:32:16 --> Language Class Initialized
+ERROR - 2016-06-11 17:32:16 --> Severity: Compile Error --> Cannot redeclare User::plans_price() /var/www/html/demo/application/controllers/User.php 226
+INFO - 2016-06-11 17:32:26 --> Config Class Initialized
+INFO - 2016-06-11 17:32:26 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:32:26 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:32:26 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:32:26 --> URI Class Initialized
+INFO - 2016-06-11 17:32:26 --> Router Class Initialized
+INFO - 2016-06-11 17:32:26 --> Output Class Initialized
+INFO - 2016-06-11 17:32:26 --> Security Class Initialized
+DEBUG - 2016-06-11 17:32:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:32:26 --> Input Class Initialized
+INFO - 2016-06-11 17:32:26 --> Language Class Initialized
+INFO - 2016-06-11 17:32:26 --> Loader Class Initialized
+INFO - 2016-06-11 17:32:26 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:32:26 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:32:26 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:32:26 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:32:26 --> Email Class Initialized
+INFO - 2016-06-11 17:32:26 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:32:26 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:32:26 --> Controller Class Initialized
+INFO - 2016-06-11 17:32:26 --> File loaded: /var/www/html/demo/application/views/user/recover_password.php
+INFO - 2016-06-11 17:32:26 --> Final output sent to browser
+DEBUG - 2016-06-11 17:32:26 --> Total execution time: 0.0064
+INFO - 2016-06-11 17:33:58 --> Config Class Initialized
+INFO - 2016-06-11 17:33:58 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:33:58 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:33:58 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:33:58 --> URI Class Initialized
+INFO - 2016-06-11 17:33:58 --> Router Class Initialized
+INFO - 2016-06-11 17:33:58 --> Output Class Initialized
+INFO - 2016-06-11 17:33:58 --> Security Class Initialized
+DEBUG - 2016-06-11 17:33:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:33:58 --> Input Class Initialized
+INFO - 2016-06-11 17:33:58 --> Language Class Initialized
+INFO - 2016-06-11 17:33:58 --> Loader Class Initialized
+INFO - 2016-06-11 17:33:58 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:33:58 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:33:58 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:33:58 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:33:58 --> Email Class Initialized
+INFO - 2016-06-11 17:33:58 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:33:58 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:33:58 --> Controller Class Initialized
+INFO - 2016-06-11 17:33:58 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:33:58 --> File loaded: /var/www/html/demo/application/views/user/change-password.php
+INFO - 2016-06-11 17:33:58 --> Final output sent to browser
+DEBUG - 2016-06-11 17:33:58 --> Total execution time: 0.0067
+INFO - 2016-06-11 17:35:00 --> Config Class Initialized
+INFO - 2016-06-11 17:35:00 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:35:00 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:35:00 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:35:00 --> URI Class Initialized
+INFO - 2016-06-11 17:35:00 --> Router Class Initialized
+INFO - 2016-06-11 17:35:00 --> Output Class Initialized
+INFO - 2016-06-11 17:35:00 --> Security Class Initialized
+DEBUG - 2016-06-11 17:35:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:35:00 --> Input Class Initialized
+INFO - 2016-06-11 17:35:00 --> Language Class Initialized
+INFO - 2016-06-11 17:35:00 --> Loader Class Initialized
+INFO - 2016-06-11 17:35:00 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:35:00 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:35:00 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:35:00 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:35:00 --> Email Class Initialized
+INFO - 2016-06-11 17:35:00 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:35:00 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:35:00 --> Controller Class Initialized
+INFO - 2016-06-11 17:35:00 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:35:00 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:35:00 --> File loaded: /var/www/html/demo/application/views/user/change-password.php
+INFO - 2016-06-11 17:35:00 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:35:00 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:35:00 --> Final output sent to browser
+DEBUG - 2016-06-11 17:35:00 --> Total execution time: 0.0066
+INFO - 2016-06-11 17:36:06 --> Config Class Initialized
+INFO - 2016-06-11 17:36:06 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:36:06 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:36:06 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:36:06 --> URI Class Initialized
+INFO - 2016-06-11 17:36:06 --> Router Class Initialized
+INFO - 2016-06-11 17:36:06 --> Output Class Initialized
+INFO - 2016-06-11 17:36:06 --> Security Class Initialized
+DEBUG - 2016-06-11 17:36:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:36:06 --> Input Class Initialized
+INFO - 2016-06-11 17:36:06 --> Language Class Initialized
+INFO - 2016-06-11 17:36:06 --> Loader Class Initialized
+INFO - 2016-06-11 17:36:06 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:36:06 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:36:06 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:36:06 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:36:06 --> Email Class Initialized
+INFO - 2016-06-11 17:36:06 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:36:06 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:36:06 --> Controller Class Initialized
+INFO - 2016-06-11 17:36:06 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:36:06 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:36:06 --> File loaded: /var/www/html/demo/application/views/user/change-password.php
+INFO - 2016-06-11 17:36:06 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:36:06 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:36:06 --> Final output sent to browser
+DEBUG - 2016-06-11 17:36:06 --> Total execution time: 0.0054
+INFO - 2016-06-11 17:36:28 --> Config Class Initialized
+INFO - 2016-06-11 17:36:28 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:36:28 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:36:28 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:36:28 --> URI Class Initialized
+INFO - 2016-06-11 17:36:28 --> Router Class Initialized
+INFO - 2016-06-11 17:36:28 --> Output Class Initialized
+INFO - 2016-06-11 17:36:28 --> Security Class Initialized
+DEBUG - 2016-06-11 17:36:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:36:28 --> Input Class Initialized
+INFO - 2016-06-11 17:36:28 --> Language Class Initialized
+INFO - 2016-06-11 17:36:28 --> Loader Class Initialized
+INFO - 2016-06-11 17:36:28 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:36:28 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:36:28 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:36:28 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:36:28 --> Email Class Initialized
+INFO - 2016-06-11 17:36:28 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:36:28 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:36:28 --> Controller Class Initialized
+INFO - 2016-06-11 17:36:28 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:36:28 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:36:28 --> File loaded: /var/www/html/demo/application/views/user/change-password.php
+INFO - 2016-06-11 17:36:28 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:36:28 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:36:28 --> Final output sent to browser
+DEBUG - 2016-06-11 17:36:28 --> Total execution time: 0.0059
+INFO - 2016-06-11 17:37:07 --> Config Class Initialized
+INFO - 2016-06-11 17:37:07 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:37:07 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:37:07 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:37:07 --> URI Class Initialized
+INFO - 2016-06-11 17:37:07 --> Router Class Initialized
+INFO - 2016-06-11 17:37:07 --> Output Class Initialized
+INFO - 2016-06-11 17:37:07 --> Security Class Initialized
+DEBUG - 2016-06-11 17:37:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:37:07 --> Input Class Initialized
+INFO - 2016-06-11 17:37:07 --> Language Class Initialized
+INFO - 2016-06-11 17:37:07 --> Loader Class Initialized
+INFO - 2016-06-11 17:37:07 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:37:07 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:37:07 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:37:07 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:37:07 --> Email Class Initialized
+INFO - 2016-06-11 17:37:07 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:37:07 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:37:07 --> Controller Class Initialized
+INFO - 2016-06-11 17:37:07 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:37:07 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:37:07 --> File loaded: /var/www/html/demo/application/views/user/change-password.php
+INFO - 2016-06-11 17:37:07 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:37:07 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:37:07 --> Final output sent to browser
+DEBUG - 2016-06-11 17:37:07 --> Total execution time: 0.0058
+INFO - 2016-06-11 17:37:40 --> Config Class Initialized
+INFO - 2016-06-11 17:37:40 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:37:40 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:37:40 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:37:40 --> URI Class Initialized
+INFO - 2016-06-11 17:37:40 --> Router Class Initialized
+INFO - 2016-06-11 17:37:40 --> Output Class Initialized
+INFO - 2016-06-11 17:37:40 --> Security Class Initialized
+DEBUG - 2016-06-11 17:37:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:37:40 --> Input Class Initialized
+INFO - 2016-06-11 17:37:40 --> Language Class Initialized
+INFO - 2016-06-11 17:37:40 --> Loader Class Initialized
+INFO - 2016-06-11 17:37:40 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:37:40 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:37:40 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:37:40 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:37:40 --> Email Class Initialized
+INFO - 2016-06-11 17:37:40 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:37:40 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:37:40 --> Controller Class Initialized
+INFO - 2016-06-11 17:37:40 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:37:40 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:37:40 --> File loaded: /var/www/html/demo/application/views/user/change-password.php
+INFO - 2016-06-11 17:37:40 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:37:40 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:37:41 --> Final output sent to browser
+DEBUG - 2016-06-11 17:37:41 --> Total execution time: 0.0056
+INFO - 2016-06-11 17:38:16 --> Config Class Initialized
+INFO - 2016-06-11 17:38:16 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:38:16 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:38:16 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:38:16 --> URI Class Initialized
+INFO - 2016-06-11 17:38:16 --> Router Class Initialized
+INFO - 2016-06-11 17:38:16 --> Output Class Initialized
+INFO - 2016-06-11 17:38:16 --> Security Class Initialized
+DEBUG - 2016-06-11 17:38:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:38:16 --> Input Class Initialized
+INFO - 2016-06-11 17:38:16 --> Language Class Initialized
+INFO - 2016-06-11 17:38:16 --> Loader Class Initialized
+INFO - 2016-06-11 17:38:16 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:38:16 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:38:16 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:38:16 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:38:16 --> Email Class Initialized
+INFO - 2016-06-11 17:38:16 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:38:16 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:38:16 --> Controller Class Initialized
+INFO - 2016-06-11 17:38:16 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:38:16 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:38:16 --> File loaded: /var/www/html/demo/application/views/user/change-password.php
+INFO - 2016-06-11 17:38:16 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:38:16 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:38:16 --> Final output sent to browser
+DEBUG - 2016-06-11 17:38:16 --> Total execution time: 0.0054
+INFO - 2016-06-11 17:42:27 --> Config Class Initialized
+INFO - 2016-06-11 17:42:27 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:42:27 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:42:27 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:42:27 --> URI Class Initialized
+INFO - 2016-06-11 17:42:27 --> Router Class Initialized
+INFO - 2016-06-11 17:42:27 --> Output Class Initialized
+INFO - 2016-06-11 17:42:27 --> Security Class Initialized
+DEBUG - 2016-06-11 17:42:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:42:27 --> Input Class Initialized
+INFO - 2016-06-11 17:42:27 --> Language Class Initialized
+INFO - 2016-06-11 17:42:27 --> Loader Class Initialized
+INFO - 2016-06-11 17:42:27 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:42:27 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:42:27 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:42:27 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:42:27 --> Email Class Initialized
+INFO - 2016-06-11 17:42:27 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:42:27 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:42:27 --> Controller Class Initialized
+INFO - 2016-06-11 17:42:27 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:42:27 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:42:27 --> File loaded: /var/www/html/demo/application/views/user/change-password.php
+INFO - 2016-06-11 17:42:27 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:42:27 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:42:27 --> Final output sent to browser
+DEBUG - 2016-06-11 17:42:27 --> Total execution time: 0.0057
+INFO - 2016-06-11 17:43:29 --> Config Class Initialized
+INFO - 2016-06-11 17:43:29 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:43:29 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:43:29 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:43:29 --> URI Class Initialized
+INFO - 2016-06-11 17:43:29 --> Router Class Initialized
+INFO - 2016-06-11 17:43:29 --> Output Class Initialized
+INFO - 2016-06-11 17:43:29 --> Security Class Initialized
+DEBUG - 2016-06-11 17:43:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:43:29 --> Input Class Initialized
+INFO - 2016-06-11 17:43:29 --> Language Class Initialized
+INFO - 2016-06-11 17:43:29 --> Loader Class Initialized
+INFO - 2016-06-11 17:43:29 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:43:29 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:43:29 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:43:29 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:43:29 --> Email Class Initialized
+INFO - 2016-06-11 17:43:29 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:43:29 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:43:29 --> Controller Class Initialized
+INFO - 2016-06-11 17:43:29 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:43:29 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:43:29 --> File loaded: /var/www/html/demo/application/views/user/change-password.php
+INFO - 2016-06-11 17:43:29 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:43:29 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:43:29 --> Final output sent to browser
+DEBUG - 2016-06-11 17:43:29 --> Total execution time: 0.0057
+INFO - 2016-06-11 17:44:51 --> Config Class Initialized
+INFO - 2016-06-11 17:44:51 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:44:51 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:44:51 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:44:51 --> URI Class Initialized
+INFO - 2016-06-11 17:44:51 --> Router Class Initialized
+INFO - 2016-06-11 17:44:51 --> Output Class Initialized
+INFO - 2016-06-11 17:44:51 --> Security Class Initialized
+DEBUG - 2016-06-11 17:44:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:44:51 --> Input Class Initialized
+INFO - 2016-06-11 17:44:51 --> Language Class Initialized
+INFO - 2016-06-11 17:44:51 --> Loader Class Initialized
+INFO - 2016-06-11 17:44:51 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:44:51 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:44:51 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:44:51 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:44:51 --> Email Class Initialized
+INFO - 2016-06-11 17:44:51 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:44:51 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:44:51 --> Controller Class Initialized
+INFO - 2016-06-11 17:44:51 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:44:51 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:44:51 --> File loaded: /var/www/html/demo/application/views/user/change-password.php
+INFO - 2016-06-11 17:44:51 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:44:51 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:44:51 --> Final output sent to browser
+DEBUG - 2016-06-11 17:44:51 --> Total execution time: 0.0037
+INFO - 2016-06-11 17:45:10 --> Config Class Initialized
+INFO - 2016-06-11 17:45:10 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:45:10 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:45:10 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:45:10 --> URI Class Initialized
+INFO - 2016-06-11 17:45:10 --> Router Class Initialized
+INFO - 2016-06-11 17:45:10 --> Output Class Initialized
+INFO - 2016-06-11 17:45:10 --> Security Class Initialized
+DEBUG - 2016-06-11 17:45:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:45:10 --> Input Class Initialized
+INFO - 2016-06-11 17:45:10 --> Language Class Initialized
+INFO - 2016-06-11 17:45:10 --> Loader Class Initialized
+INFO - 2016-06-11 17:45:10 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:45:10 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:45:10 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:45:10 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:45:10 --> Email Class Initialized
+INFO - 2016-06-11 17:45:10 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:45:10 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:45:10 --> Controller Class Initialized
+INFO - 2016-06-11 17:45:10 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:45:10 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:45:10 --> File loaded: /var/www/html/demo/application/views/user/change-password.php
+INFO - 2016-06-11 17:45:10 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:45:10 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:45:10 --> Final output sent to browser
+DEBUG - 2016-06-11 17:45:10 --> Total execution time: 0.0057
+INFO - 2016-06-11 17:45:47 --> Config Class Initialized
+INFO - 2016-06-11 17:45:47 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:45:47 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:45:47 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:45:47 --> URI Class Initialized
+INFO - 2016-06-11 17:45:47 --> Router Class Initialized
+INFO - 2016-06-11 17:45:47 --> Output Class Initialized
+INFO - 2016-06-11 17:45:47 --> Security Class Initialized
+DEBUG - 2016-06-11 17:45:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:45:47 --> Input Class Initialized
+INFO - 2016-06-11 17:45:47 --> Language Class Initialized
+INFO - 2016-06-11 17:45:47 --> Loader Class Initialized
+INFO - 2016-06-11 17:45:47 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:45:47 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:45:47 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:45:47 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:45:47 --> Email Class Initialized
+INFO - 2016-06-11 17:45:47 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:45:47 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:45:47 --> Controller Class Initialized
+INFO - 2016-06-11 17:45:47 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:45:47 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:45:47 --> File loaded: /var/www/html/demo/application/views/user/change-password.php
+INFO - 2016-06-11 17:45:47 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:45:47 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:45:47 --> Final output sent to browser
+DEBUG - 2016-06-11 17:45:47 --> Total execution time: 0.0056
+INFO - 2016-06-11 17:46:23 --> Config Class Initialized
+INFO - 2016-06-11 17:46:23 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:46:23 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:46:23 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:46:23 --> URI Class Initialized
+INFO - 2016-06-11 17:46:23 --> Router Class Initialized
+INFO - 2016-06-11 17:46:23 --> Output Class Initialized
+INFO - 2016-06-11 17:46:23 --> Security Class Initialized
+DEBUG - 2016-06-11 17:46:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:46:23 --> Input Class Initialized
+INFO - 2016-06-11 17:46:23 --> Language Class Initialized
+INFO - 2016-06-11 17:46:23 --> Loader Class Initialized
+INFO - 2016-06-11 17:46:23 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:46:23 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:46:23 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:46:23 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:46:23 --> Email Class Initialized
+INFO - 2016-06-11 17:46:23 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:46:23 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:46:23 --> Controller Class Initialized
+INFO - 2016-06-11 17:46:23 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:46:23 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:46:23 --> File loaded: /var/www/html/demo/application/views/user/change-password.php
+INFO - 2016-06-11 17:46:23 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:46:23 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:46:23 --> Final output sent to browser
+DEBUG - 2016-06-11 17:46:23 --> Total execution time: 0.0056
+INFO - 2016-06-11 17:46:45 --> Config Class Initialized
+INFO - 2016-06-11 17:46:45 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:46:45 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:46:45 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:46:45 --> URI Class Initialized
+INFO - 2016-06-11 17:46:45 --> Router Class Initialized
+INFO - 2016-06-11 17:46:45 --> Output Class Initialized
+INFO - 2016-06-11 17:46:45 --> Security Class Initialized
+DEBUG - 2016-06-11 17:46:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:46:45 --> Input Class Initialized
+INFO - 2016-06-11 17:46:45 --> Language Class Initialized
+INFO - 2016-06-11 17:46:45 --> Loader Class Initialized
+INFO - 2016-06-11 17:46:45 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:46:45 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:46:45 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:46:45 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:46:45 --> Email Class Initialized
+INFO - 2016-06-11 17:46:45 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:46:45 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:46:45 --> Controller Class Initialized
+INFO - 2016-06-11 17:46:45 --> File loaded: /var/www/html/demo/application/views/business/business_signup.php
+INFO - 2016-06-11 17:46:45 --> Final output sent to browser
+DEBUG - 2016-06-11 17:46:45 --> Total execution time: 0.0044
+INFO - 2016-06-11 17:47:14 --> Config Class Initialized
+INFO - 2016-06-11 17:47:14 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:47:14 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:47:14 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:47:14 --> URI Class Initialized
+INFO - 2016-06-11 17:47:14 --> Router Class Initialized
+INFO - 2016-06-11 17:47:14 --> Output Class Initialized
+INFO - 2016-06-11 17:47:14 --> Security Class Initialized
+DEBUG - 2016-06-11 17:47:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:47:14 --> Input Class Initialized
+INFO - 2016-06-11 17:47:14 --> Language Class Initialized
+INFO - 2016-06-11 17:47:14 --> Loader Class Initialized
+INFO - 2016-06-11 17:47:14 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:47:14 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:47:14 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:47:14 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:47:14 --> Email Class Initialized
+INFO - 2016-06-11 17:47:14 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:47:14 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:47:14 --> Controller Class Initialized
+INFO - 2016-06-11 17:47:14 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:47:14 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:47:14 --> File loaded: /var/www/html/demo/application/views/user/change-password.php
+INFO - 2016-06-11 17:47:14 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:47:14 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:47:14 --> Final output sent to browser
+DEBUG - 2016-06-11 17:47:14 --> Total execution time: 0.0038
+INFO - 2016-06-11 17:48:14 --> Config Class Initialized
+INFO - 2016-06-11 17:48:14 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:48:14 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:48:14 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:48:14 --> URI Class Initialized
+INFO - 2016-06-11 17:48:14 --> Router Class Initialized
+INFO - 2016-06-11 17:48:14 --> Output Class Initialized
+INFO - 2016-06-11 17:48:14 --> Security Class Initialized
+DEBUG - 2016-06-11 17:48:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:48:14 --> Input Class Initialized
+INFO - 2016-06-11 17:48:14 --> Language Class Initialized
+INFO - 2016-06-11 17:48:14 --> Loader Class Initialized
+INFO - 2016-06-11 17:48:14 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:48:14 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:48:14 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:48:14 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:48:14 --> Email Class Initialized
+INFO - 2016-06-11 17:48:14 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:48:14 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:48:14 --> Controller Class Initialized
+INFO - 2016-06-11 17:48:14 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:48:14 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:48:14 --> File loaded: /var/www/html/demo/application/views/user/change-password.php
+INFO - 2016-06-11 17:48:14 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:48:14 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:48:14 --> Final output sent to browser
+DEBUG - 2016-06-11 17:48:14 --> Total execution time: 0.0056
+INFO - 2016-06-11 17:48:48 --> Config Class Initialized
+INFO - 2016-06-11 17:48:48 --> Hooks Class Initialized
+DEBUG - 2016-06-11 17:48:48 --> UTF-8 Support Enabled
+INFO - 2016-06-11 17:48:48 --> Utf8 Class Initialized
+INFO - 2016-06-11 17:48:48 --> URI Class Initialized
+INFO - 2016-06-11 17:48:48 --> Router Class Initialized
+INFO - 2016-06-11 17:48:48 --> Output Class Initialized
+INFO - 2016-06-11 17:48:48 --> Security Class Initialized
+DEBUG - 2016-06-11 17:48:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 17:48:48 --> Input Class Initialized
+INFO - 2016-06-11 17:48:48 --> Language Class Initialized
+INFO - 2016-06-11 17:48:48 --> Loader Class Initialized
+INFO - 2016-06-11 17:48:48 --> Helper loaded: url_helper
+INFO - 2016-06-11 17:48:48 --> Helper loaded: file_helper
+INFO - 2016-06-11 17:48:48 --> Helper loaded: form_helper
+INFO - 2016-06-11 17:48:48 --> Database Driver Class Initialized
+INFO - 2016-06-11 17:48:48 --> Email Class Initialized
+INFO - 2016-06-11 17:48:48 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 17:48:48 --> Form Validation Class Initialized
+INFO - 2016-06-11 17:48:48 --> Controller Class Initialized
+INFO - 2016-06-11 17:48:48 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 17:48:48 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 17:48:48 --> File loaded: /var/www/html/demo/application/views/user/change-password.php
+INFO - 2016-06-11 17:48:48 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 17:48:48 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 17:48:48 --> Final output sent to browser
+DEBUG - 2016-06-11 17:48:48 --> Total execution time: 0.0058
+INFO - 2016-06-11 18:14:20 --> Config Class Initialized
+INFO - 2016-06-11 18:14:20 --> Hooks Class Initialized
+DEBUG - 2016-06-11 18:14:20 --> UTF-8 Support Enabled
+INFO - 2016-06-11 18:14:20 --> Utf8 Class Initialized
+INFO - 2016-06-11 18:14:20 --> URI Class Initialized
+INFO - 2016-06-11 18:14:20 --> Router Class Initialized
+INFO - 2016-06-11 18:14:20 --> Output Class Initialized
+INFO - 2016-06-11 18:14:20 --> Security Class Initialized
+DEBUG - 2016-06-11 18:14:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 18:14:20 --> Input Class Initialized
+INFO - 2016-06-11 18:14:20 --> Language Class Initialized
+INFO - 2016-06-11 18:14:20 --> Loader Class Initialized
+INFO - 2016-06-11 18:14:20 --> Helper loaded: url_helper
+INFO - 2016-06-11 18:14:20 --> Helper loaded: file_helper
+INFO - 2016-06-11 18:14:20 --> Helper loaded: form_helper
+INFO - 2016-06-11 18:14:20 --> Database Driver Class Initialized
+INFO - 2016-06-11 18:14:20 --> Email Class Initialized
+INFO - 2016-06-11 18:14:20 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 18:14:20 --> Form Validation Class Initialized
+INFO - 2016-06-11 18:14:20 --> Controller Class Initialized
+INFO - 2016-06-11 18:14:20 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 18:14:20 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 18:14:20 --> File loaded: /var/www/html/demo/application/views/user/change-password.php
+INFO - 2016-06-11 18:14:20 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 18:14:20 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 18:14:20 --> Final output sent to browser
+DEBUG - 2016-06-11 18:14:20 --> Total execution time: 0.0129
+INFO - 2016-06-11 18:15:37 --> Config Class Initialized
+INFO - 2016-06-11 18:15:37 --> Hooks Class Initialized
+DEBUG - 2016-06-11 18:15:37 --> UTF-8 Support Enabled
+INFO - 2016-06-11 18:15:37 --> Utf8 Class Initialized
+INFO - 2016-06-11 18:15:37 --> URI Class Initialized
+INFO - 2016-06-11 18:15:37 --> Router Class Initialized
+INFO - 2016-06-11 18:15:37 --> Output Class Initialized
+INFO - 2016-06-11 18:15:37 --> Security Class Initialized
+DEBUG - 2016-06-11 18:15:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 18:15:37 --> Input Class Initialized
+INFO - 2016-06-11 18:15:37 --> Language Class Initialized
+INFO - 2016-06-11 18:15:37 --> Loader Class Initialized
+INFO - 2016-06-11 18:15:37 --> Helper loaded: url_helper
+INFO - 2016-06-11 18:15:37 --> Helper loaded: file_helper
+INFO - 2016-06-11 18:15:37 --> Helper loaded: form_helper
+INFO - 2016-06-11 18:15:37 --> Database Driver Class Initialized
+INFO - 2016-06-11 18:15:37 --> Email Class Initialized
+INFO - 2016-06-11 18:15:37 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 18:15:37 --> Form Validation Class Initialized
+INFO - 2016-06-11 18:15:37 --> Controller Class Initialized
+INFO - 2016-06-11 18:15:37 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 18:15:37 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 18:15:37 --> File loaded: /var/www/html/demo/application/views/user/change-password.php
+INFO - 2016-06-11 18:15:37 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 18:15:37 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 18:15:37 --> Final output sent to browser
+DEBUG - 2016-06-11 18:15:37 --> Total execution time: 0.0038
+INFO - 2016-06-11 18:15:44 --> Config Class Initialized
+INFO - 2016-06-11 18:15:44 --> Hooks Class Initialized
+DEBUG - 2016-06-11 18:15:44 --> UTF-8 Support Enabled
+INFO - 2016-06-11 18:15:44 --> Utf8 Class Initialized
+INFO - 2016-06-11 18:15:44 --> URI Class Initialized
+INFO - 2016-06-11 18:15:44 --> Router Class Initialized
+INFO - 2016-06-11 18:15:44 --> Output Class Initialized
+INFO - 2016-06-11 18:15:44 --> Security Class Initialized
+DEBUG - 2016-06-11 18:15:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-11 18:15:44 --> Input Class Initialized
+INFO - 2016-06-11 18:15:44 --> Language Class Initialized
+INFO - 2016-06-11 18:15:44 --> Loader Class Initialized
+INFO - 2016-06-11 18:15:44 --> Helper loaded: url_helper
+INFO - 2016-06-11 18:15:44 --> Helper loaded: file_helper
+INFO - 2016-06-11 18:15:44 --> Helper loaded: form_helper
+INFO - 2016-06-11 18:15:44 --> Database Driver Class Initialized
+INFO - 2016-06-11 18:15:44 --> Email Class Initialized
+INFO - 2016-06-11 18:15:44 --> Session: Class initialized using 'files' driver.
+INFO - 2016-06-11 18:15:44 --> Form Validation Class Initialized
+INFO - 2016-06-11 18:15:44 --> Controller Class Initialized
+INFO - 2016-06-11 18:15:44 --> File loaded: /var/www/html/demo/application/views/includes/home_header.php
+INFO - 2016-06-11 18:15:44 --> File loaded: /var/www/html/demo/application/views/includes/account-menu.php
+INFO - 2016-06-11 18:15:44 --> File loaded: /var/www/html/demo/application/views/user/change-password.php
+INFO - 2016-06-11 18:15:44 --> File loaded: /var/www/html/demo/application/views/includes/home_footer.php
+INFO - 2016-06-11 18:15:44 --> File loaded: /var/www/html/demo/application/views/includes/front_template.php
+INFO - 2016-06-11 18:15:44 --> Final output sent to browser
+DEBUG - 2016-06-11 18:15:44 --> Total execution time: 0.0053
