@@ -1,0 +1,45 @@
+//Fonts//
+$ProximaNova  : 'Conv_ProximaNova-Regular';
+$opensans : 'Open Sans', sans-serif; 
+/*$icon-font-path: if($bootstrap-sass-asset-helper, "bootstrap/", "../fonts/bootstrap/") !default;*/ 
+
+//font-family
+$font-family-base     : $ProximaNova;
+$font-family-title    : $opensans;
+
+//Colors//
+$white                : #ffffff;
+$light-gray           : #60666a;
+$primary-color        : #ee255b;
+$secondary-color      : #43697c;
+$territory-color      : #27ae60;  
+$black                : #000;
+$dark-color           : #333;
+
+//font-color
+$text-color           : $light-gray;
+$secondary-text-color : $dark-color;
+
+@mixin box-shadow($shadows) {
+  -moz-box-shadow: $shadows;
+  -webkit-box-shadow: $shadows;
+  box-shadow: $shadows;
+}
+
+@mixin border-radius($radius) {
+  border-radius: $radius;
+  -moz-border-radius: $radius;
+  -webkit-border-radius: $radius;
+}
+@mixin background-size($type) {
+  background-size: ($type);
+  -moz-background-size: ($type);
+  -webkit-background-size: ($type); 
+}
+
+@mixin size($width, $height: $width) {
+  width: $width;
+  height: $height;
+}
+//fonts
+@font-face{font-family:Conv_ProximaNova-Regular;src:url(../fonts/ProximaNova-Regular.eot);src:local('â˜º'),url(../fonts/ProximaNova-Regular.woff) format('woff'),url(../fonts/ProximaNova-Regular.ttf) format('truetype'),url(../fonts/ProximaNova-Regular.svg) format('svg');font-weight:400!important;font-style:normal!important}

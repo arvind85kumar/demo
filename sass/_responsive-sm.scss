@@ -1,0 +1,107 @@
+@media (min-width: $screen-sm-min) {
+header{
+	.logo{
+		height: 80px;
+		display:inline-block;
+		float: left;
+		img{
+			margin-top:15px;
+		}
+	}
+}
+.reg-business{
+	float:right;
+	margin-top:21px;
+}
+ .navbar-collapse{
+ 	float: right;
+ }
+.navbar-default .navbar-nav {
+	margin-top:29px;
+}	
+// end header 
+	
+	
+// start banner
+.banner-section{
+	height: 800px;
+	.banner-content{
+		padding-top:120px;
+	}
+	h2{
+		font-size: 52px;
+		line-height: 54px;
+		font-weight:600;
+		margin-bottom:32px;
+	}
+	p{
+		font-size: 22px;
+	}
+	.banner-links{
+		margin-top:70px;
+	}
+}
+	.banner-dream-home, .banner-perfect-wedding{
+		height: 600px;
+	}
+	.banner-dream-home{
+		.banner-content{
+			padding-top:140px;
+		}
+	}
+	.banner-perfect-wedding{
+		.banner-content{
+			padding-top:170px;
+		}
+	}
+    .login-wrapper{
+        width: 752px;
+        .fb-signin-btn{
+            width: 80%;
+        }
+    }
+    .signup{
+        .login-content{
+            .fb-login-wrapper{
+                padding: 150px 30px 50px;
+            }
+        }
+    }
+    .login-content{
+        .form-login{
+            form{
+                margin-right: -15px;
+            }
+        }
+    }
+    /*only for non-responsive purpose*/
+    .business-signup{
+        .container{
+            .outer-nw-wrpr{
+                width: 100%;
+            }
+        }
+    }    
+    .common-quote-wrapper,
+    .customer-wrapper,
+    .request-quote-wrapper{
+        width: auto;
+        margin: 0;
+    }
+    
+    //ideas
+    .banner-ideas{
+        height: 390px;
+        min-height: inherit;
+    }
+    //professional    
+    .professional{
+        height: 416px;
+    }
+
+//end sm	
+}
+
+
+
+

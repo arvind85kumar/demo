@@ -1,0 +1,259 @@
+//============================ tab max to desk potrait =========================
+@media (min-width: $screen-sm-min   ) and (max-width: $screen-md-min) {
+    
+//end    
+}
+
+//============================ tab max to desk potrait =========================
+@media (min-width: $screen-md-min   ) and (max-width: $screen-lg-min) {
+    .primary-content{
+        h1{
+            font-size: 30px;
+        }
+        h3{
+            font-size:24px;
+        }
+        p{
+            font-size: 16px;
+        }
+    }
+    .paralax-panel{
+        h3{
+            font-size: 34px;
+        }
+    }
+    //content-panel
+    .content-panel{
+        min-height:350px;
+            h2{
+                font-size: 24px;
+            }
+            p{
+                font-size: 16px;
+            }
+    }
+
+    /*for left BG image*/
+    .left-bg-image{
+            h2{
+                margin-top:60px;
+            }
+    }
+
+    /*for right BG image*/
+    .right-bg-image{
+            h2{
+                margin-top:70px;
+            }
+    } 
+    // start banner
+    .banner-section{
+        h2{
+            font-size: 42px;
+        }
+    }
+    //testimonials
+    .testimonials{
+        h2{
+            font-size: 30px;
+        }
+    }
+    //ready-plan
+    .ready-plan{
+            h2{
+                font-size: 30px;
+            }
+    }
+    .ideas-banner-content{
+        h1{
+            font-size:36px;
+        }
+        form{
+            width:100%;
+            padding:20px 17px 15px;
+        }
+    }
+    .plan-dreamhome{
+        h1{
+            font-size: 30px;
+        }
+    }
+    .inspirational-ideas{
+        h2{
+            font-size: 30px;
+        }
+    }
+    .ideas-block-content{
+        padding:70px 15px 0;
+    }
+    //ideas-category-search
+    .ideas-category-search{
+        .search-filter, .search-keyword{
+            width:550px;
+        }
+        .search-filter .filter-category{
+            width:330px;
+        }
+    }
+
+    .search-filter{
+        .filter-sub-category{
+            width:200px;
+        }
+    }
+    //find-home
+    .find-home{
+        h2{
+            font-size: 30px;
+        }
+    }
+
+    .step-by-step{
+        height: 500px;
+        padding: 150px 0;
+        h2 {
+            font-size: 35px;
+        }
+    }
+    .quote-banner{
+        h2{
+            font-size: 36px;
+        }
+    }
+    .customer-wrapper{
+        header{
+            h1{
+                font-size: 30px;
+            }
+        }
+    }
+    .request-submit-banner{
+        h2{
+            font-size: 30px;
+        }
+    }
+    .request-quote-wrapper{
+        h1{
+            font-size: 30px;
+        }
+        p{
+            font-size: 18px;
+        }
+        .plan-dreamhome-content{
+            h3{
+                font-size: 18px;
+            }
+        }
+    }
+    
+    //testimonials
+    .testimonials{
+        .icon-arrow-left{
+            left:0;
+        }
+        .icon-arrow-right{
+            right:0;
+        }
+    }
+    //professional page
+    .professional{
+        .search-panel{
+            width: 810px;
+        }
+        .custom-select{
+            width: 570px;
+        }
+    }
+    
+    .professional-category{
+        .search-filter, 
+        .search-keyword{
+            width: 439px;
+            .filter-category,
+            .filter-sub-category{
+                width: 100%;
+            }
+        }
+    }
+    
+    .search-wrapper-outer{
+        .search-result-list{
+            .result-pic{
+                width: 180px;
+                img{
+                    max-width: 100%;
+                }
+            }
+            .result-content{
+                margin-left: 200px;
+            }   
+        }
+        .right-top-sec{
+            .result-title{
+                font-size: 14px;
+            }
+        }
+    }
+    .ideas-wrapper{
+        .ideas-listing{
+            .sorting-content{
+                padding-top: 20px;
+                h5{
+                    line-height: 20px;
+                }
+            }
+        }
+    }
+    //counter    
+    .counter-section{
+        .clock-wrapper{
+            margin: 0 15px;
+        }
+        .flip-clock-wrapper{
+            ul{
+                width: 54px;
+            }
+            &:before{
+                width: 54px;
+            }
+        }
+    }
+    
+    //  guides column  
+    .guide-col-wrapper{
+        .box-col{
+            @include size(180px, 219px);
+        }
+    }
+    //guides help
+    .helpful-guides{
+        li{
+            width: 25%;
+        }
+    }
+    //ideas-category-search
+    .guides-search{
+        .search-panel{
+            width:863px;
+        }
+        .custom-select{
+            width: 718px;
+        }
+    }
+    //guides content
+    .guide-list{
+        .box-wrap{
+            min-height: 520px;
+        }
+    }
+    
+//end    
+}
+
+
+
+//============================ mobile landscape =========================
+@media (min-width: 480px) and (max-width: 640px) {
+ 
+    
+}

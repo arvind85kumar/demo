@@ -1,0 +1,30 @@
+@media (min-width: $screen-lg-min) { 
+    .why-join-us-wrapper{
+        padding: 20px 20px 72px;
+    }
+//end
+}
+
+@media (min-width: 1700px) { 
+     .content-panel{
+         min-height:650px;
+     }
+    .right-bg-image h2, .left-bg-image h2 {
+        margin-top: 190px;
+    }
+    .connect h2 {
+        margin-top:150px;
+    }    
+    .thank-u{
+        padding: 60px 30px 80px;
+    }
+    .popup-box-ideas{
+        width: 60%;
+        left: 50%;
+        margin-left: -30%;
+    }
+    .user-login-wrapper{
+        margin: 200px auto;
+    }
+//end
+}
