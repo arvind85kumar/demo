@@ -213,6 +213,16 @@ class User extends CI_Controller {
           );
 			$this->load->view('user/recover_password',$data);
 		}
+		public function plans_price()
+		{
+				$data = array(
+               'title' => 'Plans & Pricing'
+          );
+		
+			$data['main_content'] = 'user/plans-pricing';
+				$this->load->view('includes/front_template', $data);  	
+		}
+		
 		
 		public function myaccount()
 		{
