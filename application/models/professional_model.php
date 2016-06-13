@@ -1,13 +1,14 @@
 <?php
-class professional_model extends CI_Model {
+
+ini_set("error_reporting", 0);
+
+class Professional_model extends CI_Model {
 
     public function get_promotions() {
         $query = $this->db->query("SELECT * FROM `promotional_offers` order by added_on desc limit 0,1");
         $row = $query->row();
         return $row;
     }
-		
-		
 
     function record_count() {
         $this->db->select('*');
@@ -99,7 +100,87 @@ class professional_model extends CI_Model {
         return $query->result_array();
     }
 
-   
+    public function get_division_id($division_list2, $userid) {
+        //padam koli done
+
+        /* $this->db->select('divisionid');
+          $this->db->from('user_division');
+          $this->db->where('userid',$userid);
+          $query1 = $this->db->get();
+          $result1 = $query1->result_array();
+          $div_res1 = "";
+          foreach($result1 as $res){
+          $div_res1 .= $res['divisionid'].",";
+          }
+          $divid = "";
+          foreach($division_list2 as $divisionids){
+          $divid .= $divisionids.",";
+          }
+          $divisionid = trim($divid,",");
+          $division_name = str_replace(',',"','",$divisionid);
+
+          $query2 = $this->db->query("Select divisionid from division where division_type = 'S' and store_name in('".$division_name."')");
+          $division_id = "";
+          $result2 = $query2->result_array();
+          $div_res2 = "";
+          foreach($result2 as $res1){
+          $div_res2 .= $res1['divisionid'].",";
+          }
+          $division1 = trim($div_res1,",");
+          $division1 = explode(",",$division1);
+          $division2 = trim($div_res2,",");
+          $division2 = explode(",",$division2);
+          $new_div_id = array_diff($division2,$division1);
+
+
+          foreach($new_div_id as $division_id){
+          $data = array(
+          'userid' => $userid,
+          'divisionid' => $division_id,
+          'isdefault'=>0
+          );
+          $this->db->insert('user_division',$data);
+         */
+
+        $query2 = $this->db->query("Select store_name,divisionid from division");
+        $result2 = $query2->result_array();
+
+        $alldivision = array();
+        foreach ($result2 as $res1) {
+            $alldivision[$res1['store_name']] = $res1['divisionid'];
+        }
+
+
+        $this->db->query("delete from user_division where userid = " . $userid);
+
+        foreach ($division_list2 as $division_list2) {
+
+
+            $data = array(
+                'userid' => $userid,
+                'divisionid' => $alldivision[$division_list2],
+                'isdefault' => 0
+            );
+
+            $this->db->insert('user_division', $data);
+        }
+        /* 	$this->db->select('role.name,role.roleid');
+          $this->db->from('role');
+          $this->db->join('division_role','division_role.roleid=role.roleid');
+          $this->db->where('divisionid',$division_id);
+          $query2 = $this->db->get();
+          foreach($query2->result_array() as $row1){
+          $roleid = $row1['roleid'];
+          $data1 = array(
+          'userid' => $userid,
+          'user_divisionid' => $division_id,
+          'roleid' => $roleid,
+          );
+          $this->db->insert('user_division_role',$data1);
+          }
+
+         */
+    }
 
     public function record_assign_division($userid) {
         $query = $this->db->query('select division.divisionid,division.store_name,user_division.userdivisionid,user_division.userid,user_division.divisionid,user_division.isdefault  from division inner join user_division on(division.divisionid=user_division.divisionid) where user_division.userid=' . $userid);

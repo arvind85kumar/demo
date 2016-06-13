@@ -206,25 +206,46 @@ class User extends CI_Controller {
 		
 		public function change_password()
 		{
-				$data = array(
+					$data = array(
                'title' => 'Change Password'
           );
+					$loggedUser=$this->session->userdata('logged_in');
+            	print_r($loggedUser);
+
+				if ($this->input->server('REQUEST_METHOD') == 'POST')
+        {
+		$this->form_validation->set_rules('current_password', 'Current Password', 'trim|required');	
+		$this->form_validation->set_rules('newpassword', 'New Password', 'trim|required|min_length[6]|matches[confirmpassword]');
+		$this->form_validation->set_rules('confirmpassword', 'Confirm Password', 'trim|required|min_length[6]|matches[newpassword]');
+		if ($this->form_validation->run())
+            {
+            	$this->check_current_password();
+
+            	$loggedUserid=$loggedUser['uid'];
+            	$newpassword=$this->encrypt_decrypt('encrypt',$this->input->post('newpassword',true));
+
+            	$where="userid=$loggedUserid";
+            	echo $str=$this->db->update_string('users',array('password'=>$newpassword),$where);
+
+			}
+		}
+
 			$data['main_content'] = 'user/change-password';
 				$this->load->view('includes/front_template', $data); 
 		}
-		public function plans_price()
+		
+
+		public function check_current_password()
 		{
-				$data = array(
-               'title' => 'Plans & Pricing'
-          );
-		
-			$data['main_content'] = 'user/plans-pricing';
-				$this->load->view('includes/front_template', $data);  	
+
+			$password=$this->encrypt_decrypt('encrypt',$this->input->post('current_password'));
+			$count=$this->db->query("SELECT *FROM users WHERE password='".$password."'")->num_rows();
+			if($count==0)
+			{
+				echo "Please enter correct password";
+			}
+			
 		}
-		
-		
-		
-		
 		public function myaccount()
 		{
 			if(empty($this->session->userdata('logged_user')))

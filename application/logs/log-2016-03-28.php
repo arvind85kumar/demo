@@ -2157,7 +2157,7 @@ INFO - 2016-03-28 18:45:34 --> Router Class Initialized
 INFO - 2016-03-28 18:45:34 --> Output Class Initialized
 INFO - 2016-03-28 18:45:34 --> Security Class Initialized
 DEBUG - 2016-03-28 18:45:34 --> Global POST, GET and COOKIE data sanitized
-INFO - 2016-03-28 18:45:34 --> Input Class Initialized
+INFO - 2016-03-28 18:45:3< --> Input Class Initialized
 INFO - 2016-03-28 18:45:34 --> Language Class Initialized
 INFO - 2016-03-28 18:45:34 --> Loader Class Initialized
 INFO - 2016-03-28 18:45:34 --> Helper loaded: url_helper

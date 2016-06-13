@@ -5,6 +5,16 @@ $userdata=$this->session->userdata('logged_user');
 .nav-stacked a{ color: #333333;
 	font-weight:300;	
 }
+.signin-btn
+{
+  width:100%;
+  height: 30px;
+}
+#password_change
+{
+  margin:10px 50px 10px 50px;
+
+}
 </style>
       <!-- Login wrapper start-->
       <div class="container">
@@ -19,23 +29,27 @@ $userdata=$this->session->userdata('logged_user');
 <br><br></div>
   <div class="col-md-6">
 	  
-          <form role="form" class="form-business fv-form fv-form-bootstrap" id="business_step1" method="post" action="" novalidate="novalidate"><button type="submit" class="fv-hidden-submit" style="display: none; width: 0px; height: 0px;"></button>
+          <form role="form" class="form-business fv-form fv-form-bootstrap" id="password_change" method="post" action="" novalidate="novalidate"><button type="submit" class="fv-hidden-submit" style="display: none; width: 0px; height: 0px;"></button>
                                <div class="row">
 							  <h1>Change Password</h1>
                                   
                                   
                                </div>
-                                                       
+                               <br>                    
                                <div class="form-group has-feedback">
                                   <label for="name">Current Password</label>
-                                  <input type="text" placeholder="oneuser123" value="" name="username" class="form-control" data-fv-field="username">																	  
-                              </div>                                               
+                                  <input type="password" placeholder="Current Password" value="<?php echo set_value('current_password'); ?>" name="current_password" class="form-control" >						 <?php echo form_error('current_password', '<div class="error">', '</div>'); ?>											  
+                              </div>
+                                                                          
                                <div class="form-group has-feedback">
-                                 <label for="name">Current Password</label>
-                                  <input type="text" placeholder="oneuser123" value="" name="username" class="form-control" data-fv-field="username"></div> 
-                               <p>
-                                   <label><input type="checkbox" name="acceptTerms" data-fv-field="acceptTerms"><i style="display: none;" class="form-control-feedback fv-icon-no-label" data-fv-icon-for="acceptTerms"></i>By signing up with us, you agree with our <a href="#">Terms of Use</a>, <a href="#">Pro Agreement</a> and <a href="#">Privacy Policy</a>.</label></p>
-                               <button class="btn signin-btn" type="submit">Sign Up</button>
+                                 <label for="name">New Password</label>
+                                  <input type="password" placeholder="New password" value="<?php echo set_value('newpassword'); ?>" name="newpassword" class="form-control"></div> 
+ <?php echo form_error('newpassword', '<div class="error">', '</div>'); ?>
+                                   <div class="form-group has-feedback">
+                                 <label for="name">Confirm Password</label>
+                                  <input type="password" placeholder="Confirm Password" value="<?php echo set_value('confirmpassword'); ?>" name="confirmpassword" class="form-control" ></div>
+                                <?php echo form_error('confirmpassword', '<div class="error">', '</div>'); ?>
+                               <button class="btn-primary signin-btn" type="submit">Change Password</button>
                             </form>
        </div>
       
@@ -48,6 +62,7 @@ $userdata=$this->session->userdata('logged_user');
             </div>
             </div>
       </div>
-      <!-- Login wrapper End-->
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-  
+    <script src="<?php echo base_url();?>javascripts/jquery.min.js"></script>
+    <script src="<?php echo base_url();?>javascripts/jquery.validate.min.js"></script>
+    <script src="<?php echo base_url();?>javascripts/formValidation.js"></script>
+    <script src="<?php echo base_url();?>javascripts/loginf.js"></script>
